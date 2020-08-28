@@ -8,5 +8,6 @@ To run:
   Install Python
   
   $pip3 install requirements
+  
   $python3 main.py
   
