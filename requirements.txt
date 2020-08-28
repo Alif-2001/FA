@@ -1,0 +1,11 @@
+beautifulsoup4==4.9.1
+bs4==0.0.1
+DateTime==4.3
+numpy==1.18.2
+pandas==1.0.5
+requests==2.23.0
+selenium==3.141.0
+soup==0.1.0
+soupsieve==2.0.1
+termcolor==1.1.0
+urllib3==1.25.9
